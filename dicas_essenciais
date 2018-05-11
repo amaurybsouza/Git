@@ -1,3 +1,5 @@
+#Comandos mais usados do Git
+
 git init: Initialize a git repository in an empty directory.
 
 git add: Add a file to the staging area. 
@@ -12,8 +14,7 @@ git checkout: Literally "check out" a branch.
 
 git -b BranchName: Create a new branch in your repository. 
 
-------------------------------------------------------------------
-Sites para aprender mais sobre Git:
+#Sites para aprender mais sobre Git:
 
 - http://git-scm.com/book — Entire open source book on Git
 
@@ -26,3 +27,4 @@ Sites para aprender mais sobre Git:
 - http://gitref.org/ — Great for glossary reference
 
 - http://rogerdudler.github.io/git-guide — Short but sweet
+
