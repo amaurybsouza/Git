@@ -1,0 +1,28 @@
+git init: Initialize a git repository in an empty directory.
+
+git add: Add a file to the staging area. 
+
+git commit: Acknowledge any change. Usually, "git commit -m 'Make change.'"
+
+git remote add origin [GitHub address here]: Connect your local repo with GitHub.
+
+git push -u origin master: Push your local repo to GitHub.
+
+git checkout: Literally "check out" a branch. 
+
+git -b BranchName: Create a new branch in your repository. 
+
+------------------------------------------------------------------
+Sites para aprender mais sobre Git:
+
+- http://git-scm.com/book — Entire open source book on Git
+
+- http://www.codeschool.com/courses/try-git — First chapter for free
+
+- http://www.youtube.com/GitHubGuides — If you’re a visual learner
+
+- http://git-scm.com/documentation — Git’s own beginner tutorial
+
+- http://gitref.org/ — Great for glossary reference
+
+- http://rogerdudler.github.io/git-guide — Short but sweet
